@@ -1,7 +1,7 @@
 FROM alpine:edge
 
 ARG AUUID="a45f112d-c747-48e4-b974-c276ac8e1f4a"
-ARG CADDYIndexPage="https://github.com/kkkewd/Html/raw/main/Advanced-Login-UI-master.zip "
+ARG CADDYIndexPage="https://github.com/kkkewd/Html/raw/main/Advanced-Login-UI-master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8000
 
